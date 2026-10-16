@@ -25,6 +25,7 @@ Key Insights: West region has the highest sales, driven by low discounting :** W
 
 ** dashboard screenshots**
 
-<img width="987" height="555" alt="Screenshot 2026-10-13 at 7 18 04 PM" src="https://github.com/user-attachments/assets/4a8c0e3a-d9f5-4a5e-a1a9-36104a62ec8a" />
+<img width="1033" height="602" alt="Screenshot 2026-10-13 at 7 20 46 PM" src="https://github.com/user-attachments/assets/b7448143-d799-4aa1-a29f-2d5c59a12d92" />
+
 <img width="1047" height="584" alt="Screenshot 2026-10-13 at 7 20 24 PM" src="https://github.com/user-attachments/assets/dfc4994f-976c-4aab-8186-d28b76cc9102" />
 
